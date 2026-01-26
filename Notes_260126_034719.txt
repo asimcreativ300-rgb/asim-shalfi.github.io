@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asim Shalfi - موقع شخصي / Personal Website</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- الرئيسية / Home -->
+  <section id="home">
+    <h1>مرحباً! أنا عاصم الشلفي</h1>
+    <p>أنا مستقل في الخدمات الرقمية والإبداعية / Freelancer in Digital & Creative Services</p>
+  </section>
+
+  <!-- عنّي / About Me -->
+  <section id="about">
+    <h2>عنّي / About Me</h2>
+    <p>اسمي عاصم الشلفي، مستقل أعمل على مشاريع رقمية وإبداعية متعددة. أحب تطوير مهاراتي وتقديم أفضل الخدمات لعملائي. أنا متاح دائمًا للتعاون والمشاريع الجديدة.</p>
+    <p>My name is Asim Shalfi, a Freelancer working on various digital and creative projects. I enjoy developing my skills and delivering the best services to my clients. I’m always available for collaboration and new projects.</p>
+  </section>
+
+  <!-- أعمالي / Portfolio -->
+  <section id="portfolio">
+    <h2>أعمالي / Portfolio</h2>
+    <ul>
+      <li>مشروع 1 / Project 1: وصف مختصر / Short description</li>
+      <li>مشروع 2 / Project 2: وصف مختصر / Short description</li>
+      <li>مشروع 3 / Project 3: وصف مختصر / Short description</li>
+    </ul>
+  </section>
+
+  <!-- تواصل معي / Contact -->
+  <section id="contact">
+    <h2>تواصل معي / Contact</h2>
+    <p>الاسم / Name: عاصم الشلفي / Asim Shalfi</p>
+    <p>العمل / Occupation: مستقل / Freelancer</p>
+    <p>📞 الهاتف / Phone: +967 775780122</p>
+    <p>📧 البريد الإلكتروني / Email: asim.personal@gmail.com</p>
+    <p>🏠 العنوان / Address: 123 شارع الرئيسي / 123 Main Street</p>
+    <p>المدينة / City: صنعاء / Sana’a</p>
+    <p>الولاية / State/Province: محافظة صنعاء / Sana’a Governorate</p>
+    <p>الدولة / Country: اليمن / Yemen</p>
+    <p>الرمز البريدي / Postal Code: 12345</p>
+  </section>
+
+  <!-- طرق الدفع / Payment Methods -->
+  <section id="payment">
+    <h2>طرق الدفع / Payment Methods</h2>
+    <ul>
+      <li>PayPal – الدفع الآمن والسريع / Secure and fast payment</li>
+      <li>التحويل البنكي / Bank Transfer – مباشر وآمن / Direct and secure</li>
+      <li>البطاقات الائتمانية / Credit/Debit Cards – سهل وسريع / Easy and fast</li>
+      <li>الدفع عبر الهاتف / Mobile Money – محلي وسريع / Local and fast</li>
+    </ul>
+  </section>
+</body>
+</html>
